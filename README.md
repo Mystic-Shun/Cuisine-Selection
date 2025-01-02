@@ -1,3 +1,3 @@
 # Cuisine Selection
 
-A simple cuisine selection menu with a registeration process!
+A simple cuisine selection menu with a registration process!
